@@ -1,4 +1,7 @@
 # Human Readable Number
+## Rolling Scopes Task
+
+![image](https://github.com/user-attachments/assets/2bc1c8d7-e3fe-4fd1-80be-13e9c284cb85)
 
 ## Task
 Your task is to implement function `toReadable` that converts given number, to readable string.
