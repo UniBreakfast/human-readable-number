@@ -1,4 +1,5 @@
-# Human Readable Number
+# [Human Readable Number](https://github.com/UniBreakfast/human-readable-number)
+
 ## Rolling Scopes Task
 
 ![image](https://github.com/user-attachments/assets/2bc1c8d7-e3fe-4fd1-80be-13e9c284cb85)
